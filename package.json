@@ -1,0 +1,8 @@
+{
+  "name": "hanashi-no-netacho",
+  "version": "2.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": { "start": "node server.mjs" },
+  "dependencies": { "pg": "^8.16.3" }
+}
